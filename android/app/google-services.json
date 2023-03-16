@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "216831963871",
+    "project_id": "quanlychitieu-4e1a4",
+    "storage_bucket": "quanlychitieu-4e1a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216831963871:android:4d6d409270dbb66b272f6a",
+        "android_client_info": {
+          "package_name": "com.example.expenditure_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216831963871-8uvc6b9bmp1lgc5gecar6s3tk47bhafc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.expenditure_management",
+            "certificate_hash": "83cc68dfbcd1fcbfa496d3dffe699ab70b2a5c4c"
+          }
+        },
+        {
+          "client_id": "216831963871-67hhl8gfpo361odcj2a84pgcvb5jv8r9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7E9V6E1K-P2GQOQqwn3T-atqZ_ri3nMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216831963871-67hhl8gfpo361odcj2a84pgcvb5jv8r9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
